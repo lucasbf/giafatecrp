@@ -15,3 +15,4 @@ uso de bibliotecas, APS's e frameworks, discussões teóricas.
 
 ## Contato
 O site do gIA-FatecRP pode ser acessado [aqui](http:\\giafatecrp.azurewebsites.net).
+E-Mail: gia@fatecrp.edu.br

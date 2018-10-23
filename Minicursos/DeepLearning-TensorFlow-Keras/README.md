@@ -60,3 +60,17 @@ Estes são os possíveis domínios que podem ser abordados.
     6.5 Keras
 
 ### Referências e Links
+
+#### Sites
+* [Python](https://www.python.org) - Uma linguagem de programação poderosa e flexível muito usada em Machine Learning.
+* [Tensor Flow](https://www.tensorflow.org) - Uma biblioteca para computação numérica usando autograd.
+* [Keras](https://keras.io) - Uma API de alto nível para Redes Neurais em geral construída para funcionar em cima do TensorFlow.
+* [Numpy](http://www.numpy.org/) - Um pacote fundamental para computação científica em Python
+* [Pandas](https://pandas.pydata.org) - Uma biblioteca para manipulação de dados estruturados e análise de dados em Python.
+* [Scikit-learn](http://scikit-learn.org) - Uma biblioteca para machine learning em Python
+* [Matplotlib](https://matplotlib.org) - Biblioteca para gráficos e visualização de dados
+
+#### Livros
+* GOODFELLOW, I; BENGIO, Y; COURVILLE, A; [**Deep Learning Book**](https://www.deeplearningbook.org). The MIT Press, 2017, 775 p.
+* HAYKIN, S; [**Neural Networks And Learning Machines**](https://www.amazon.com/Neural-Networks-Learning-Machines-3rd/dp/0131471392/ref=sr_1_1?ie=UTF8&qid=1538743430&sr=8-1&keywords=haykin). 3a. Ed.[S.I.]: Pearson, 2018, 936 p.
+* CHOLLET, F; [**Deep Learning With Python**](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=1617294438&pd_rd_r=8b567593-c89d-11e8-9fa2-b56c5080678d&pd_rd_w=yewVl&pd_rd_wg=XFzP4&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=53dead45-2b3d-4b73-bafb-fe26a7f14aac&pf_rd_r=D3QTEDZAP7MG9NGBQ1K5&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=D3QTEDZAP7MG9NGBQ1K5). Manning Publications, 2017, 384 p.

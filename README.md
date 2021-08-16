@@ -1,5 +1,5 @@
 # gIA - FatecRP
-Repositório do Grupo de Estudos em Inteligência Artificial da Fatec Ribeirão Preto
+Grupo de Estudos em Inteligência Artificial da Fatec Ribeirão Preto
 
 ## Introdução
 O Grupo de Estudos em Inteligência Artificial da Fatec Ribeirão Preto tem por objetivo o estudo e divulgação dos conceitos e 
@@ -14,5 +14,9 @@ uso de bibliotecas, APS's e frameworks, discussões teóricas.
 * Projetos - contém informações e códigos-fonte de projetos realizados pelos membros do gIA.
 
 ## Contato
-O site do gIA-FatecRP pode ser acessado [aqui](http:\\giafatecrp.azurewebsites.net).
+O site do gIA-FatecRP pode ser acessado [aqui](https://lucasbf.github.io/giafatecrp/).
 E-Mail: gia@fatecrp.edu.br
+
+## Professor Responsável
+Lucas Baggio Figueira
+Fatec Ribeirão Preto
